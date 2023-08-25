@@ -9,6 +9,8 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
   - [About](#about)
   - [Projects](#projects)
   - [Technologies Used](#technologies-used)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## About
 
@@ -26,3 +28,10 @@ The "Projects" section of the portfolio website highlights some of my notable pr
 - React.js
 - React Bootstrap
 
+## License
+
+This project is licensed under the MIT License
+
+## Contact
+
+Feel free to reach out to me via email at [felfehayden@gmail.com](felfehayden@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hayden-felfe-2a895a193/).
